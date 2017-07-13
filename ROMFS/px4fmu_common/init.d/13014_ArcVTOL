@@ -7,10 +7,10 @@
 #
 # @output MAIN1 motor right
 # @output MAIN2 motor left
-# @output MAIN3 profondeur right
-# @output MAIN4 profondeur left
 # @output MAIN5 elevon right
 # @output MAIN6 elevon left
+# @output MAIN7 flap right
+# @output MAIN8 flap left
 # @maintainer Hugo Honore <hugo.honore@he-arc.ch>
 #
 
